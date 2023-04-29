@@ -182,6 +182,7 @@ nav ul li a:hover {
     width: 243px;
     height: 243px;
     border-radius: 50%;
+    object-fit: cover;
 }
 .btn {
     margin-top: 1.5rem;
